@@ -1,0 +1,27 @@
+.container-button{
+    height: 73px;
+    display: flex;
+    flex: 1 1;
+    margin: 3px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #1b1b32;
+    color: white;
+    border-radius: 35px;
+    border: 2px solid white;
+    cursor: pointer;
+    user-select: none; /*Con esta funcion no se puede seleccionar el texto */
+}
+
+.container-button:hover{
+    background-color: #5a01a7;
+}
+.operator{
+    background-color: #00471b;
+}
+
+.operator:hover{
+    background-color: orange;
+}
