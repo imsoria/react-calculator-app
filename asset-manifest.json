@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/react-calculator-app/static/css/main.c8c343a1.css",
+    "main.js": "/github.io/react-calculator-app/static/js/main.366dc325.js",
+    "static/media/soria-logo.png": "/github.io/react-calculator-app/static/media/soria-logo.da0a53f3e1cccd2247c6.png",
+    "index.html": "/github.io/react-calculator-app/index.html",
+    "main.c8c343a1.css.map": "/github.io/react-calculator-app/static/css/main.c8c343a1.css.map",
+    "main.366dc325.js.map": "/github.io/react-calculator-app/static/js/main.366dc325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c343a1.css",
+    "static/js/main.366dc325.js"
+  ]
+}
