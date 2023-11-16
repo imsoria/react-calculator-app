@@ -1,7 +1,7 @@
-# React calculator app
-This is a  simple calculator app created using React
+# Calculator app created using react
+This is an example of a classic calculator using react, created by Enrique Soria
 
-# Open to colaborate 
-Feel fre to check the code and put any comments, also if you find any error let me know - imsoria
+# Contributing
+f you find any errors or missing functionality, please feel free to suggest a solution or get in touch with me.
 
 ![Calculator screenshot](./src/images/Screenshot.png)
